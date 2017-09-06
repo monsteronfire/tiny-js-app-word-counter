@@ -1,0 +1,33 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.word-counter-wrapper {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.word-counter-wrapper h1 {
+  font-family: Arial;
+}
+
+.input-string {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 8px 20px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.count-button {
+  padding: 10px 20px;
+  background-color: red;
+  color: white;
+  font-size: 16px;
+  border: none;
+}
