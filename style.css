@@ -24,6 +24,12 @@ html {
   text-align: center;
 }
 
+.output {
+  height:20px;
+  margin-bottom: 20px;
+  font-family: Arial;
+}
+
 .count-button {
   padding: 10px 20px;
   background-color: red;
